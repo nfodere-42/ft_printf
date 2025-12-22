@@ -1,7 +1,14 @@
 NAME = libftprintf.a
 
-PRINTF_SRC = ft_printf.c ft_format_chr.c ft_format_hex.c ft_format_int.c \
-             ft_format_prcn.c ft_format_ptr.c ft_format_str.c ft_format_usgn_int.c
+PRINTF_SRC = 
+	ft_printf.c \
+	ft_format_chr.c \
+	ft_format_hex.c \
+	ft_format_int.c \
+    ft_format_prcn.c \
+	ft_format_ptr.c \
+	ft_format_str.c \
+	ft_format_usgn_int.c
 
 LIBFT_SRC = ft_atoi.c ft_bzero.c ft_calloc.c ft_isalnum.c ft_isalpha.c ft_isascii.c \
       ft_isdigit.c ft_isprint.c ft_memchr.c ft_memcmp.c ft_memcpy.c ft_memmove.c \
