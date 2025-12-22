@@ -1,7 +1,7 @@
-# Python Module 00
+# Ft_Printf
 Python Module 00 is the first Python module at 42 school. Here you learn basic concepts about working with Python functions and get an introduction to OOP.
 
-![](images/logo_python00.png)
+![](images/logo_ft_printf.png)
 
 ## Exercices description
 `src/ex0/ft_hello_garden.py`: Prints a simple welcome message for the community garden.
