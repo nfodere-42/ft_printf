@@ -1,8 +1,8 @@
-# Ft_Printf
+# Ft_printf
 ![](images/logo_ft_printf.png)
 
 ## Description
-Python Module 00 is the first Python module at 42 school. Here you learn basic concepts about working with Python functions and get an introduction to OOP.
+Ft_printf is a 42 project that aims to replicate the behavior of the original C printf function by implementing a dedicated function for each supported data type.
 
 ## Exercices description
 `src/ex0/ft_hello_garden.py`: Prints a simple welcome message for the community garden.
