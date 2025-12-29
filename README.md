@@ -4,7 +4,7 @@
 ## Description
 Ft_printf is a 42 project that aims to replicate the behavior of the original C printf function by implementing a dedicated function for each supported data type.
 >[!NOTE]
->This project use [Libft](https://github.com/nfodere-42/libft)
+>This project uses [Libft](https://github.com/nfodere-42/libft)
 
 ## Project files
 `src/Makefile`: Build automation file.
