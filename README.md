@@ -1,8 +1,9 @@
-# Ft_printf
+# ft_printf
 ![](images/logo_ft_printf.png)
 
 ## Description
-Ft_printf is a 42 project that aims to replicate the behavior of the original C printf function by implementing a dedicated function for each supported data type.
+ft_printf is a 42 project that aims to replicate the behavior of the original C printf function by implementing a dedicated function for each supported data type.
+
 >[!NOTE]
 >This project uses [Libft](https://github.com/nfodere-42/libft)
 
