@@ -1,5 +1,5 @@
 # ft_printf
-![](images/logo_ft_printf.png)
+<img src="images/logo_ft_printf.png" width="512" hegiht="auto">
 
 ## Description
 ft_printf is a 42 project that aims to replicate the behavior of the original C printf function by implementing a dedicated function for each supported data type.
